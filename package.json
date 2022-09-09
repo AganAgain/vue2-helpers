@@ -1,5 +1,5 @@
 {
-    "name": "@agan/vue2-helpers",
+    "name": "@a-latte/vue2-helpers",
     "version": "2.0.2",
     "description": "A util package to use Vue 2 with Composition API easily",
     "author": {
@@ -13,11 +13,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AganAgain/vue2-helpers.git"
+        "url": "git+https://github.com/lulu-latte/vue2-helpers.git"
     },
-    "homepage": "https://github.com/AganAgain/vue2-helpers#readme",
+    "homepage": "https://github.com/lulu-latte/vue2-helpers#readme",
     "bugs": {
-        "url": "https://github.com/AganAgain/vue2-helpers/issues"
+        "url": "https://github.com/lulu-latte/vue2-helpers/issues"
     },
     "peerDependencies": {
         "vue": "^2.7.0",
@@ -29,9 +29,6 @@
             "optional": true
         },
         "vuex": {
-            "optional": true
-        },
-        "vue": {
             "optional": true
         }
     },
