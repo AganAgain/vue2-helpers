@@ -51,5 +51,6 @@
     },
     "[markdown]": {
         "editor.formatOnSave": false
-    }
+    },
+    "liveServer.settings.port": 5501
 }
